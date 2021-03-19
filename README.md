@@ -1,1 +1,1 @@
-# TenhouBackGroundImage
+# Background images for Tenhou or other possible utilisations 
